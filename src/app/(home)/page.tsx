@@ -36,7 +36,7 @@ export default function Home() {
             Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito{' '}
           </p>
         </div>
-      <SubscriptionForm/>
+        <SubscriptionForm />
       </div>
     </div>
   )
